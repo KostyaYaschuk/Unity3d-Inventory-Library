@@ -11,4 +11,4 @@ Library for creating and working with inventories.
 <br>
 И добавим туда оружие "GunExample".
 <br>
-![image](https://user-images.githubusercontent.com/61995172/113947656-cdd4ad80-9813-11eb-8e4f-24d766970ca4.png)
+![photo_2021-04-08_02-19-53](https://user-images.githubusercontent.com/61995172/113947857-40de2400-9814-11eb-9d88-f06d32eea06c.jpg)
