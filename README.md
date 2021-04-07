@@ -19,6 +19,6 @@ Library for creating and working with inventories.
 <br>
 
 <br>
-
+![Снимок экрана 2021-04-08 025902](https://user-images.githubusercontent.com/61995172/113948785-666c2d00-9816-11eb-83a0-e50fd5f1c106.png)
 <br>
 
