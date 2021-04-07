@@ -13,4 +13,6 @@ Library for creating and working with inventories.
 <br>
 ![photo_2021-04-08_02-19-53](https://user-images.githubusercontent.com/61995172/113947857-40de2400-9814-11eb-9d88-f06d32eea06c.jpg)
 <br>
-Результат из консоли
+Результат из консоли:
+<br>
+![photo_2021-04-08_02-18-00](https://user-images.githubusercontent.com/61995172/113948038-ab8f5f80-9814-11eb-8b47-00ba121eb141.jpg)
