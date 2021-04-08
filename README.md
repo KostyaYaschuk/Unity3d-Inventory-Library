@@ -19,7 +19,5 @@ Library for creating and working with inventories.
 <br>
 
 <br>
-![1](https://user-images.githubusercontent.com/61995172/113948785-666c2d00-9816-11eb-83a0-e50fd5f1c106.png)
-<br>
-![photo_2021-04-08_02-22-38](https://user-images.githubusercontent.com/61995172/113946741-cc09ea80-9811-11eb-8dd8-4783fb06a785.jpg)
 
+<br>
