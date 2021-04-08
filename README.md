@@ -1,7 +1,8 @@
 # Unity3d-Inventory-Library
 Library for creating and working with inventories.
+<br>
 Библиотека для работы с инвентарями
-
+<br>
 Пример использования:
 
 Например создадим класс "GunExample", обязательно вказать атрибут "[System.Serializable]".
