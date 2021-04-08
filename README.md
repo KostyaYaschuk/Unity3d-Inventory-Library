@@ -17,7 +17,4 @@ Library for creating and working with inventories.
 <br>
 ![photo_2021-04-08_02-18-00](https://user-images.githubusercontent.com/61995172/113948038-ab8f5f80-9814-11eb-8b47-00ba121eb141.jpg)
 <br>
-
-<br>
-
-<br>
+Больше примеров в "ExamplesInv.cs"
